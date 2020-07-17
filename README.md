@@ -16,3 +16,6 @@
 
 #### 📧 To contact me
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:runner.troll.rt@gmail.com)](mailto:runner.troll.rt@gmail.com)
+[![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat-quare&logo=Telegram&logoColor=white&link=https://telegram.org/)](https://t.me/Lampiola)
+
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;![Octane](https://media1.giphy.com/media/fUN9Jal2W57RqQXL2s/giphy.gif)
