@@ -3,7 +3,7 @@
 * About me
 
   - 📚 I'm a computer science student at federal university of Sergipe (2017)
-  - 💚 I'm a frontend developer, and currently studying nodejs backend technologies
+  - 💚 I'm a full-stack developer (JavaScript/Java), and currently working at Secretaria da Saúde de Sergipe.
   - 🤖 I love creating bots, and learning new technologies
 
 #### 📱 My social medias
